@@ -11,6 +11,10 @@ Following flowchart explain the working of the code.
   
   ![image](https://user-images.githubusercontent.com/37010825/140644280-fa4c2fb4-1144-450e-a111-23bfa46e17e4.png)
 
+Accuracy Score:
+  1. Support Vector Machine: 92.8%
+  2. Convolutional Neural Network (CNN): 93.9%
+
 Image Segmentation and detection from the both the model are shown as below: (Segmentation for digit 3 is shown and all the digit segmentation work in the similar manner.)
 
   ![image](https://user-images.githubusercontent.com/37010825/140644307-cca2bed9-a7fe-4bba-8c86-301ce8d9c41c.png)
