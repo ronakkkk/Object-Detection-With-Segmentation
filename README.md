@@ -1,0 +1,2 @@
+# Object-Detection-With-Segmentation
+The object detection are performed on the digit recognition data images. The images data are converted and stored in the Mnist Data format. To detect the images, two classifier are trained and tested, the two classifiers are convolution neural network and support vector machine. Here, the test image are segmented into individual digit to predict the required output. Image segmentation is performed using OpenCV. 
